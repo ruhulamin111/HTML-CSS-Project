@@ -35,3 +35,21 @@ body {
     background-color: white;
     border: 1px solid #297334;
 }
+
+.second-section {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.section-item {
+    width: 300px;
+    border: 1px solid #297334;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.section-item img {
+    width: 100%;
+    border-radius: 20px;
+}
