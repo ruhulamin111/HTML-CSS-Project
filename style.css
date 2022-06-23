@@ -62,3 +62,9 @@ body {
 .highlight {
     color: #15AEBF;
 }
+
+.notice {
+    text-align: center;
+    color: #297334;
+    margin: 30px 0;
+}
